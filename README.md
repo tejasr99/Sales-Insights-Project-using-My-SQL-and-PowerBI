@@ -2,4 +2,4 @@
 
 ## Data Analysis Using SQL
 ### 1. Show all customer records
-'Select * from customers'
+`Select * from customers`
